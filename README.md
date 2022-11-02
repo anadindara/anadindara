@@ -1,7 +1,7 @@
 ### Ol! Eu sou Dindara 🖖🏾
 
 - 🌱 Hoje estudo a parte de front-end
-- 👯 Atualmente estou estudando : JavaScript e React
+- 👯 Atualmente estudando : JavaScript e React
 - 📫 Contate-me no e-mail: dindaradev@gmail.com
 - 😄 Pronomes: ela/dela
 
